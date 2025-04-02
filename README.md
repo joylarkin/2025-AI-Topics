@@ -81,6 +81,7 @@
 - Closed AI
 - Vertical AI
 - Horizontal AI
+- Embedded AI
 - AI Models
 - Frontier Models
 - Frontier LLMs
