@@ -9,6 +9,7 @@
 - AI Hosting
 - AI Hardware
 - AI Hardware Platforms
+- AI Hyperscalers
 
 🧑‍💻 Developer Tools & Coding
 - AI Developer Tools 
@@ -73,6 +74,7 @@
 - Generative AI
 - GenAI
 - Multimodal AI
+- Spatial AI
 - Multilingual AI
 - Audio AI
 - Video AI
