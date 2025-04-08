@@ -6,6 +6,7 @@
 - AI Inference
 - AI Compute
 - AI Cloud
+- AI GPUs
 - AI Hosting
 - AI Hardware
 - AI Hardware Platforms
@@ -97,14 +98,18 @@
 
 🏦 Industry-specific AI
 - Fintech AI
+- Banking AI
 - AI Payments
-- AI Finance
+- Finance AI
+- FintechAI
 - Legal AI
 - Insurance AI
 - InsurTech AI
 - Healthcare AI
 - Healthtech AI
 - Biotech AI
+- AI Drug Discovery
+- Clinical AI
 - Genetic AI
 - Scientific AI
 - Quantum AI
@@ -116,6 +121,7 @@
 - AI Travel
 - AI Hospitality
 - AI Education
+- Edutech AI
 - Recruiting AI
 - AI Job Search
 
