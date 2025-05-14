@@ -11,6 +11,7 @@
 - AI Hardware
 - AI Hardware Platforms
 - AI Hyperscalers
+- AI Neoclouds
 
 🧑‍💻 Developer Tools & Coding
 - AI Developer Tools 
