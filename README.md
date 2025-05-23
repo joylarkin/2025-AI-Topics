@@ -12,6 +12,9 @@
 - AI Hardware Platforms
 - AI Hyperscalers
 - AI Neoclouds
+- Decentralized AI
+- Peer-to-Peer AI
+- P2P AI
 
 🧑‍💻 Developer Tools & Coding
 - AI Developer Tools 
