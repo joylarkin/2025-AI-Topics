@@ -172,6 +172,8 @@
 - MLOps
 - Enterprise AI
 - Business AI
+- Sovereign AI
+
 
 
 
