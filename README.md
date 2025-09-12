@@ -99,6 +99,7 @@
 - Machine Learning
 - Applied AI
 - Applied AI Labs
+- Private AI
 
 🏦 Industry-specific AI
 - Fintech AI
