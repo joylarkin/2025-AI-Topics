@@ -129,6 +129,8 @@
 - Edutech AI
 - Recruiting AI
 - AI Job Search
+- Military AI
+- Defense AI
 
 🛠️ Industrial & Physical AI
 - AI Robotics
