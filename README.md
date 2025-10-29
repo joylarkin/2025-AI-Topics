@@ -87,6 +87,7 @@
 - Audio AI
 - Video AI
 - Vision AI
+- AI Research
 - Open Source AI
 - Closed AI
 - Vertical AI
