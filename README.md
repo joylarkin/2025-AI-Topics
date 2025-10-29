@@ -12,9 +12,12 @@
 - AI Hardware Platforms
 - AI Hyperscalers
 - AI Neoclouds
+- Edge AI
 - Decentralized AI
+- Distributed AI 
 - Peer-to-Peer AI
 - P2P AI
+- Centralized AI
 
 🧑‍💻 Developer Tools & Coding
 - AI Developer Tools 
@@ -169,6 +172,7 @@
 - AI Search
 - AI Translation
 - AI Localization
+- Transcription AI
 
 ⚙️ AI Operational Practices
 - LLMOps
