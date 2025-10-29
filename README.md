@@ -174,6 +174,7 @@
 - LLMOps
 - MLOps
 - Enterprise AI
+- Government AI
 - Business AI
 - Sovereign AI
 
